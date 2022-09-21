@@ -14,7 +14,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Jupiee">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Jupiee&theme=tokyonight_duo&hide_border=true&ring=6b49ba&currStreakLabel=6b49ba&sideNums=6b49ba&dates=979797&sideLabels=6b49ba&currStreakNum=6b49ba&border=DD2727&stroke=00000000&background=00000000&fire=6b49ba" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Jupiee&theme=tokyonight_duo&hide_border=true&ring=6b49ba&currStreakLabel=6b49ba&sideNums=9f9f9f&dates=979797&sideLabels=6b49ba&currStreakNum=9f9f9f&border=DD2727&stroke=00000000&background=00000000&fire=6b49ba" />
     </td>
   </tr>
 </p>
