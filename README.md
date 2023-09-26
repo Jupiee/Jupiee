@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust"/>
-  <img src="https://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=kotlin"/>
   <img src="https://img.shields.io/badge/-Selenium-grey?style=for-the-badge&logo=selenium"/>
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
