@@ -25,6 +25,6 @@
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Jupiee">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jupiee&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=6b49ba&text_color=6b49ba&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6b49ba&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jupiee&title_color=6b49ba&text_color=6b49ba&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6b49ba&hide_title=true&count_private=true&enable_animations=true" />
     </td>
-  </tr>
+</tr>
