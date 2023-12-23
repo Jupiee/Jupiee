@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust"/>
-  <img src="https://img.shields.io/badge/-Selenium-grey?style=for-the-badge&logo=selenium"/>
+  <img src="https://img.shields.io/badge/-Typescript-grey?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/-Git-FFF?style=for-the-badge&logo=git"/>
-  </p>
+  <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git"/>
+</p>
 
 <p align="center">
   <tr>
